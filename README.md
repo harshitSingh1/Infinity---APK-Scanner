@@ -1,6 +1,6 @@
 # APK Vulnerability Scanner
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=APK+Vulnerability+Scanner)  
+![banner](https://github.com/user-attachments/assets/23ce7c70-d7e7-4af6-9262-e6e70398e435)
 *A comprehensive tool for static analysis of Android APK files to detect 16 potential security vulnerabilities.*
 
 ---
